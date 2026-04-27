@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Nati & Gabriel - Free Wedding Website Template</title>
+    <title>Natália & Gabriel</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -28,13 +28,15 @@
 
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
     <!-- Navbar Start -->
-    <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-lg-5">
+    <nav class="navbar fixed-top navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-lg-5" style="display: flex !important;">
         <a href="index.html" class="navbar-brand d-block d-lg-none">
             <h1 class="font-secondary text-white mb-n2">Nati <span class="text-primary">&</span> Gabriel</h1>
         </a>
-        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+        
+        <a href="#gift-list" class="nav-item navbar-toggler nav-link">Lista de Presentes</a>
+        <!-- <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
-        </button>
+        </button> -->
         <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
             <div class="navbar-nav ml-auto py-0">
                 <a href="#home" class="nav-item nav-link active"><i class="fa fa-home"></i></a>
@@ -48,7 +50,7 @@
             </a>
             <div class="navbar-nav mr-auto py-0">
                 <a href="#gift-list" class="nav-item nav-link">Lista de Presentes</a>
-                <a href="#rsvp" class="nav-item nav-link">Convite</a>
+                <a href="#rsvp" class="nav-item nav-link">Recado</a>
             </div>
         </div>
     </nav>
@@ -60,27 +62,12 @@
         <div id="header-carousel" class="carousel slide carousel-fade" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item position-relative active" style="height: 100vh; min-height: 400px;">
-                    <img class="position-absolute w-100 h-100" src="img/carousel-1.jpg" style="object-fit: cover;">
+                    <img class="position-absolute w-100 h-100" src="img/ensaio1/ensaio2.jpg" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 900px;">
+                        <div class="p-3" style="max-width: 900px; margin-top: 30%;">
                             <h1 class="display-1 font-secondary text-white mt-n3 mb-md-4">Nati & Gabriel</h1>
                             <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
-                                <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">25/04/2026</h3>
-                            <!-- </div>
-                            <button type="button" class="btn-play mx-auto" data-toggle="modal"
-                                data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
-                                <span></span>
-                            </button> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item position-relative" style="height: 100vh; min-height: 400px;">
-                    <img class="position-absolute w-100 h-100" src="img/carousel-2.jpg" style="object-fit: cover;">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h1 class="display-1 font-secondary text-white mt-n3 mb-md-4">Nati & Gabriel</h1>
-                            <div class="d-inline-block border-top border-bottom border-light py-3 px-4">
-                                <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">25/04/2026</h3>
+                                <h3 class="text-uppercase font-weight-normal text-white m-0" style="letter-spacing: 2px;">10/10/2026</h3>
                             <!-- </div>
                             <button type="button" class="btn-play mx-auto" data-toggle="modal"
                                 data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
@@ -90,16 +77,6 @@
                     </div>
                 </div>
             </div>
-            <a class="carousel-control-prev justify-content-start" href="#header-carousel" data-slide="prev">
-                <div class="btn btn-primary px-0" style="width: 68px; height: 68px;">
-                    <span class="carousel-control-prev-icon mt-3"></span>
-                </div>
-            </a>
-            <a class="carousel-control-next justify-content-end" href="#header-carousel" data-slide="next">
-                <div class="btn btn-primary px-0" style="width: 68px; height: 68px;">
-                    <span class="carousel-control-next-icon mt-3"></span>
-                </div>
-            </a>
         </div>
     </div>
     <!-- Carousel End -->
@@ -134,13 +111,13 @@
             <div class="container timeline position-relative p-0">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-right">
-                        <img class="img-fluid mr-md-3" src="img/default.jpg" alt="">
+                        <img class="img-fluid mr-md-3" src="img/hist-1.png" alt="">
                     </div>
                     <div class="col-md-6 text-center text-md-left">
                         <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4 ml-md-3">
                             <h4 class="mb-2">Primeiros momentos</h4>
-                            <p class="text-uppercase mb-2">01/01/2018</p>
-                            <p class="m-0">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                            <p class="text-uppercase mb-2">02/01/2018</p>
+                            <p class="m-0">No segundo dia de 2018, Gabriel começou a trabalhar com a Natália, aí bateu os olhos nela e se apaixonou.</p>
                         </div>
                     </div>
                 </div>
@@ -149,7 +126,7 @@
                         <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4 mr-md-3">
                             <h4 class="mb-2">Primeira festa juntos</h4>
                             <p class="text-uppercase mb-2">20/01/2019</p>
-                            <p class="m-0">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                            <p class="m-0">No dia 20 de janeiro de 2019, Gabriel e Natália foram para a primeira festa juntos, um open bar em Cachoeirinha. Naquela noite construíram uma amizade muito grande que só cresceu nos próximos anos. Naquela noite Gabriel já estava encantado pela Nati.</p>
                         </div>
                     </div>
                     <div class="col-md-6 text-center text-md-left">
@@ -163,8 +140,8 @@
                     <div class="col-md-6 text-center text-md-left">
                         <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4 ml-md-3">
                             <h4 class="mb-2">Viagem Guarda do Embaú </h4>
-                            <p class="text-uppercase mb-2">05/03/2021</p>
-                            <p class="m-0">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                            <p class="text-uppercase mb-2">05/03/2019</p>
+                            <p class="m-0">Gabriel convidou a Nati para ir em uma viagem para a Guarda do Embaú em SC, onde fizeram trilhas e aproveitaram um lugar incrível juntos..</p>
                         </div>
                     </div>
                 </div>
@@ -174,7 +151,7 @@
                         <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4 mr-md-3">
                             <h4 class="mb-2">Primeiro Beijo</h4>
                             <p class="text-uppercase mb-2">02/2021</p>
-                            <p class="m-0">(sim, levou 3 anos) Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                            <p class="m-0">(Sim, levou 3 anos) Viajaram para Macaé/RJ para fazer implantação do sistema em um cliente da empresa e evoluíram o sentimento, rolando até mesmo o primeiro beijo entre noites de longas conversas e muito trabalho. Porém, acabaram se afastando após a viagem.</p>
                         </div>
                     </div>
                     <div class="col-md-6 text-center text-md-left">
@@ -189,7 +166,7 @@
                         <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4 ml-md-3">
                             <h4 class="mb-2">Pedido de Namoro</h4>
                             <p class="text-uppercase mb-2">25/08/2023</p>
-                            <p class="m-0">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                            <p class="m-0">Após se reencontrarem (novamente em uma viagem de trabalho), o destino colocou os dois juntos novamente e dessa vez decididos a encarar o relacionamento.</p>
                         </div>
                     </div>
                 </div>
@@ -198,7 +175,7 @@
                         <div class="h-100 d-flex flex-column justify-content-center bg-secondary p-4 mr-md-3">
                             <h4 class="mb-2">Pedido de Casamento</h4>
                             <p class="text-uppercase mb-2">14/04/2024</p>
-                            <p class="m-0">Lorem elitr magna stet rebum dolores sed. Est stet labore est lorem lorem at amet sea, eos tempor rebum, labore amet ipsum sea lorem, stet rebum eirmod amet. Kasd clita kasd stet amet est dolor elitr.</p>
+                            <p class="m-0">Após 8 meses juntos e cheios de amor, Gabriel pede Natália em casamento em uma noite especial. O tempo que demorou pra oficializarem um namoro, compensou no pedido de casamento.</p>
                         </div>
                     </div>
                     <div class="col-md-6 text-center text-md-left">
