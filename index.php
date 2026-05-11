@@ -33,7 +33,7 @@
             <h1 class="font-secondary text-white mb-n2">Nati <span class="text-primary">&</span> Gabriel</h1>
         </a>
         
-        <a href="#gift-list" class="nav-item navbar-toggler nav-link" style="color: white;">Lista de Presentes</a>
+        <a href="#gift-list" class="nav-item navbar-toggler nav-link" style="color: white; font-weight: 900">Lista de Presentes</a>
         <!-- <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button> -->
