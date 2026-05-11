@@ -6,14 +6,14 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="text-center">
-                        <form>
+                        <form method="post" action="salvar.php">
                             <div class="form-row">
                                 <div class="form-group col-sm-12">
-                                    <input type="text" class="form-control bg-secondary border-0 py-4 px-3" placeholder="Nome"/>
+                                    <input type="text" maxlength="50" class="form-control bg-secondary border-0 py-4 px-3" placeholder="Nome" required name="nome"/>
                                 </div>
                             </div>
                             <div class="form-group">
-                                <textarea class="form-control bg-secondary border-0 py-2 px-3" rows="5" placeholder="Quer deixar algum recado para os noivos?"></textarea>
+                                <textarea class="form-control bg-secondary border-0 py-2 px-3" rows="5" placeholder="Quer deixar algum recado para os noivos?" name="mensagem" required></textarea>
                             </div>
                             <div>
                                 <button class="btn btn-primary font-weight-bold py-3 px-5" type="submit">Enviar</button>
