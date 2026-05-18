@@ -40,7 +40,7 @@
                                 <li>Mojito</li>
                                 <li>Piña Colada.
                             </ul>
-                            E também mais de 40 combinações de caipirinhas (morango, limão, kiwi, maracujá e abacaxi) começando às 22h e indo até 3h.
+                            E também mais de 40 combinações de caipirinhas (morango, limão, kiwi, maracujá e abacaxi).
                             </p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
