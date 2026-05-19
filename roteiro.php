@@ -50,5 +50,23 @@
                         </div>
                     </div>
                 </div>  
+                <br class="clear">
+                <br class="clear">
+                <div class="col-lg-6 col-md-6 offset-lg-3 offset-xs-3 portfolio-item">
+                    <div class="position-relative mb-2">
+                        <img class="img-fluid w-100" src="img/roteiro/touro.png" alt="">
+                        <div class="bg-secondary text-center p-4">
+                            <h4 class="mb-3">Touro Mecânico</h4>
+                            <p class=""><a href="https://www.instagram.com/inflavelfestas" target="_blank">@inflavelfestas</a><br><br>
+
+                            Teremos touro mecânico disponível para todos os convidados, por isso lembramos da importância das mulheres irem com uma roupa por baixo do vestido para que consigam aproveitar também essa atração.</p>
+                            <!-- <div class="d-inline-block">
+                                <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
+                                <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
+                                <a class="mx-2" href="#"><i class="fab fa-instagram"></i></a>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>  
                 
             </div>
