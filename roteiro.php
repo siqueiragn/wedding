@@ -14,11 +14,6 @@
 
                             Com mais de 18 anos de experiência, o Chef é um importante colunista gastronômico da região. Estará presente junto com sua equipe para fazer o buffet e cuidar da alimentação de todos os convidados. Teremos entradinhas, janta, sobremesas e lanche da madrugada.
                             </p>
-                            <!-- <div class="d-inline-block">
-                                <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="mx-2" href="#"><i class="fab fa-instagram"></i></a>
-                            </div> -->
                         </div>
                     </div>
                 </div>  
@@ -42,11 +37,6 @@
                             </ul>
                             E também mais de 40 combinações de caipirinhas (morango, limão, kiwi, maracujá e abacaxi).
                             </p>
-                            <!-- <div class="d-inline-block">
-                                <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="mx-2" href="#"><i class="fab fa-instagram"></i></a>
-                            </div> -->
                         </div>
                     </div>
                 </div>  
@@ -60,11 +50,19 @@
                             <p class=""><a href="https://www.instagram.com/inflavelfestas" target="_blank">@inflavelfestas</a><br><br>
 
                             Teremos touro mecânico disponível para todos os convidados, por isso lembramos da importância das mulheres irem com uma roupa por baixo do vestido para que consigam aproveitar também essa atração.</p>
-                            <!-- <div class="d-inline-block">
-                                <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="mx-2" href="#"><i class="fab fa-instagram"></i></a>
-                            </div> -->
+                        </div>
+                    </div>
+                </div>
+                <br class="clear">
+                <br class="clear">
+                <div class="col-lg-6 col-md-6 offset-lg-3 offset-xs-3 portfolio-item">
+                    <div class="position-relative mb-2">
+                        <img class="img-fluid w-100" src="img/roteiro/surpresa.png" alt="">
+                        <div class="bg-secondary text-center p-4">
+                            <h4 class="mb-3">Momento Surpresa</h4>
+                            <p class=""><a href="#" target="_blank">...</a><br><br>
+
+                            Quando chegar a noite, teremos uma surpresa...</p>
                         </div>
                     </div>
                 </div>  
