@@ -57,6 +57,20 @@
                 <br class="clear">
                 <div class="col-lg-6 col-md-6 offset-lg-3 offset-xs-3 portfolio-item">
                     <div class="position-relative mb-2">
+                        <img class="img-fluid w-100" src="img/roteiro/play360.jpg" alt="">
+                        <div class="bg-secondary text-center p-4">
+                            <h4 class="mb-3">Play 360 Festas & Eventos</h4>
+                            <p class=""><a href="https://www.instagram.com/play360festas/" target="_blank">@play360festas</a><br><br>
+
+                            Teremos uma plataforma 360° para gravações, espelho de fotos com impressão na hora e fondue de frutas.
+                            </p>
+                        </div>
+                    </div>
+                </div>  
+                <br class="clear">
+                <br class="clear">
+                <div class="col-lg-6 col-md-6 offset-lg-3 offset-xs-3 portfolio-item">
+                    <div class="position-relative mb-2">
                         <img class="img-fluid w-100" src="img/roteiro/surpresa.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Momento Surpresa</h4>
