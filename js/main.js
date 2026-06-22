@@ -79,7 +79,7 @@
         }
     });
     $('.back-to-top').click(function () {
-        $('html, body').animate({scrollTop: 0}, 1500, 'easeInOutExpo');
+        window.open('https://wa.me/+555196707112?text=Ol%C3%A1%2C%20gostaria%20de%20confirmar%20a%20presen%C3%A7a%20no%20casamento%20da%20Nat%C3%A1lia%20%26%20Gabriel.', '_blank');
         return false;
     });
 
