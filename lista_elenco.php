@@ -65,7 +65,7 @@
                         <img class="img-fluid img-fluid-sm w-100" src="img/time/keyla.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Keyla Barbosa</h4>
-                            <p class="text-uppercase">"Nega"</p>
+                            <p class="text-uppercase">Madrinha do casal</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -79,7 +79,7 @@
                         <img class="img-fluid img-fluid-sm w-100" src="img/time/luana.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Luana Jahnke</h4>
-                            <p class="text-uppercase">"Luh"</p>
+                            <p class="text-uppercase">Madrinha do casal</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -93,7 +93,7 @@
                         <img class="img-fluid img-fluid-sm w-100" src="img/time/eunice.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Eunice Gonçalves</h4>
-                            <p class="text-uppercase">"Tia Nice"</p>
+                            <p class="text-uppercase">Madrinha do casal</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -108,7 +108,7 @@
                         <img class="img-fluid img-fluid-sm w-100" src="img/time/leonardo.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Leonardo Sanson</h4>
-                            <p class="text-uppercase">"Leo"</p>
+                            <p class="text-uppercase">Padrinho do casal</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -122,7 +122,7 @@
                         <img class="img-fluid img-fluid-sm w-100" src="img/time/vinicius.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Vinicius Jahnke</h4>
-                            <p class="text-uppercase">"Vini"</p>
+                            <p class="text-uppercase">Padrinho do casal</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -136,7 +136,7 @@
                         <img class="img-fluid img-fluid-sm w-100" src="img/time/rodrigo.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Rodrigo Zanotta</h4>
-                            <p class="text-uppercase">"Cunha"</p>
+                            <p class="text-uppercase">Padrinho do casal</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -150,7 +150,7 @@
                         <img class="img-fluid img-fluid-sm w-100" src="img/time/laura.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Laura</h4>
-                            <p class="text-uppercase">"Laurinha"</p>
+                            <p class="text-uppercase">Dama de Honra</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -164,7 +164,7 @@
                         <img class="img-fluid img-fluid-sm w-100" src="img/time/isabella.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Isabella</h4>
-                            <p class="text-uppercase">"Bella"</p>
+                            <p class="text-uppercase">Dama de honra</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -179,7 +179,7 @@
                         <img class="img-fluid img-fluid-sm w-100" src="img/time/tay.png" alt="">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Tay</h4>
-                            <p class="text-uppercase">"(Sa)fada madrinha"</p>
+                            <p class="text-uppercase">(Sa)fada madrinha</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
