@@ -205,7 +205,7 @@
     <i class="fa fa-2x fa-angle-down text-white scroll-to-bottom"></i>
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-outline-primary btn-lg-square back-to-top" style="background-color: #e44702; color: white; width: 500px;">CONFIRME A PRESENÇA CLICANDO AQUI &nbsp;<img style="height: 30px;" src="img/whatsapp.png"> </a>
+    <a href="#" class="btn btn-lg btn-outline-primary btn-lg-square back-to-top" style="background-color: #e44702; color: white; width: 100%; font-size: 0.85em;">CONFIRME A PRESENÇA CLICANDO AQUI &nbsp;<img style="height: 30px;" src="img/whatsapp.png"> </a>
 
 
     <!-- JavaScript Libraries -->
