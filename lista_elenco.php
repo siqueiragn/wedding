@@ -6,7 +6,7 @@
             <div class="row portfolio-container">
                 <div class="col-lg-6 col-md-6 mb-6 portfolio-item firstNatalia">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid w-100" src="img/time/inoema.png" alt="">
+                        <img class="img-fluid w-100" src="img/time/inoema.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Inoema</h4>
                             <p class="text-uppercase">Mãe da Noiva</p>
@@ -20,7 +20,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6 mb-6 portfolio-item firstNatalia">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid w-100" src="img/time/rogerio.png" alt="">
+                        <img class="img-fluid w-100" src="img/time/rogerio.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Rogério</h4>
                             <p class="text-uppercase">Pai da Noiva</p>
@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6 mb-6 portfolio-item firstGabriel">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid  w-100" src="img/time/maristela.png" alt="">
+                        <img class="img-fluid  w-100" src="img/time/maristela.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Maristela</h4>
                             <p class="text-uppercase">Mãe do Noivo</p>
@@ -48,7 +48,7 @@
                 </div>
                 <div class="col-lg-6 col-md-6 mb-6 portfolio-item firstGabriel">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid w-100" src="img/time/sandro.png" alt="">
+                        <img class="img-fluid w-100" src="img/time/sandro.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Sandro</h4>
                             <p class="text-uppercase">Pai do Noivo</p>
@@ -62,7 +62,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid img-fluid-sm w-100" src="img/time/keyla.png" alt="">
+                        <img class="img-fluid img-fluid-sm w-100" src="img/time/keyla.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Keyla Barbosa</h4>
                             <p class="text-uppercase">Madrinha do casal</p>
@@ -76,7 +76,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid img-fluid-sm w-100" src="img/time/luana.png" alt="">
+                        <img class="img-fluid img-fluid-sm w-100" src="img/time/luana.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Luana Jahnke</h4>
                             <p class="text-uppercase">Madrinha do casal</p>
@@ -90,7 +90,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item first">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid img-fluid-sm w-100" src="img/time/eunice.png" alt="">
+                        <img class="img-fluid img-fluid-sm w-100" src="img/time/eunice.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Eunice Gonçalves</h4>
                             <p class="text-uppercase">Madrinha do casal</p>
@@ -105,7 +105,7 @@
                 
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid img-fluid-sm w-100" src="img/time/leonardo.png" alt="">
+                        <img class="img-fluid img-fluid-sm w-100" src="img/time/leonardo.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Leonardo Sanson</h4>
                             <p class="text-uppercase">Padrinho do casal</p>
@@ -119,7 +119,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid img-fluid-sm w-100" src="img/time/vinicius.png" alt="">
+                        <img class="img-fluid img-fluid-sm w-100" src="img/time/vinicius.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Vinicius Jahnke</h4>
                             <p class="text-uppercase">Padrinho do casal</p>
@@ -133,7 +133,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item second">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid img-fluid-sm w-100" src="img/time/rodrigo.png" alt="">
+                        <img class="img-fluid img-fluid-sm w-100" src="img/time/rodrigo.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Rodrigo Zanotta</h4>
                             <p class="text-uppercase">Padrinho do casal</p>
@@ -147,10 +147,10 @@
                 </div>
                 <div class="offset-lg-2 offset-xs-2 col-lg-4 col-md-6 mb-4 portfolio-item third">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid img-fluid-sm w-100" src="img/time/laura.png" alt="">
+                        <img class="img-fluid img-fluid-sm w-100" src="img/time/laura.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Laura</h4>
-                            <p class="text-uppercase">Dama de Honra</p>
+                            <p class="text-uppercase">Daminha de Honra</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -161,10 +161,10 @@
                 </div>
                 <div class="col-lg-4 col-md-6 mb-4 portfolio-item third">
                     <div class="position-relative mb-2">
-                        <img class="img-fluid img-fluid-sm w-100" src="img/time/isabella.png" alt="">
+                        <img class="img-fluid img-fluid-sm w-100" src="img/time/isabella.png" alt="" style="height: 400px; width: 400px;">
                         <div class="bg-secondary text-center p-4">
                             <h4 class="mb-3">Isabella</h4>
-                            <p class="text-uppercase">Dama de honra</p>
+                            <p class="text-uppercase">Daminha de honra</p>
                             <!-- <div class="d-inline-block">
                                 <a class="mx-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="mx-2" href="#"><i class="fab fa-facebook-f"></i></a>
